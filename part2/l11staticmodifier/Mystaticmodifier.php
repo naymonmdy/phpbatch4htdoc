@@ -48,7 +48,7 @@ class Baby2 extends Mystaticmodifier{
 echo "This is Static Modifier";
 
 $obj1 = new Mystaticmodifier();
-echo $obj->idx;;// Static
+echo $obj->idx;// Static
 
 echo "<hr/>";
 
